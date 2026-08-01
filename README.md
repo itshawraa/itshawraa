@@ -8,11 +8,11 @@
 
 ### `Computer Engineering Graduate`
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1700&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Vision;Robotics;Artificial+Intelligence;Building+things+with+Python;Coffee+%2B+Books;Always+learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1700&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Vision;Robotics;Artificial+Intelligence;Fixing+things;Coffee+%2B+Music" />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=itshawraa&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 # ✦ About Me
 
-<table>
+<table align="center">
 
 <tr>
 
@@ -28,7 +28,7 @@
 
 ```yaml
 Name:
-  Hawraa
+  Hawraa Tarik
 
 Location:
   Alexandria, Egypt
@@ -40,6 +40,7 @@ Interests:
   Computer Vision
   Robotics
   Artificial Intelligence
+  Game & Web Development
 
 Currently:
   Learning and building projects
@@ -49,14 +50,12 @@ Currently:
 
 <td width="50%">
 
-## Currently Listening To
+## Currently Probablyyy
 
 ```text
 ♪ coffee brewing...
 
-♫ coding...
-
-☾ late-night debugging...
+♫ Discovering new music...
 
 ✦ learning something new...
 ```
