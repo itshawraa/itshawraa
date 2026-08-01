@@ -116,15 +116,15 @@ Currently:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/itshawraa">
 <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hawraa-t-farag-4138431a5/)">
 <img src="https://img.shields.io/badge/LinkedIn-4CC9F0?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hawraafarag@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF5CC8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
