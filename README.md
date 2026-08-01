@@ -53,11 +53,11 @@ Currently:
 ## Currently Probablyyy
 
 ```text
-♪ coffee brewing...
+♪ coffee brewing
 
-♫ Discovering new music...
+♫ Discovering new music
 
-✦ learning something new...
+✦ learning something new
 ```
 
 </td>
