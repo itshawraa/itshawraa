@@ -120,7 +120,7 @@ Currently:
 <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hawraa-t-farag-4138431a5/)">
+<a href="https://www.linkedin.com/in/hawraa-t-farag-4138431a5">
 <img src="https://img.shields.io/badge/LinkedIn-4CC9F0?style=for-the-badge&logo=linkedin"/>
 </a>
 
